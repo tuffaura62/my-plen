@@ -1,0 +1,14 @@
+{
+    "name": "My Custom Propeller Plane",
+    "mass": 800,
+    "dragCoefficient": 0.04,
+    "propeller": {
+        "thrust": 2500,
+        "diameter": 1.9
+    },
+    "wings": {
+        "area": 16,
+        "span": 11,
+        "chord": 1.4
+    }
+}
